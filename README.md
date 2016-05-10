@@ -6,7 +6,8 @@ Consult the terrific [MDN JavaScript Reference](https://developer.mozilla.org/en
 
 ## String Methods
 
-<input type="checkbox" id="string1" value="string-checkbox-1"> <label for="string1">str.length</label>
+:white_medium_square:  `str.length`
+:white_medium_square:  `str.trim`
 
 ## Array Methods
 
